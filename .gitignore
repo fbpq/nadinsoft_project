@@ -5,3 +5,9 @@ node_modules
 .DS_Store
 
 .env.example
+
+node_modules/
+dist/
+*.log
+
+.vscode/
